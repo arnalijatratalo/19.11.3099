@@ -1,0 +1,13 @@
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.exe
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.deps.json
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.runtimeconfig.json
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.runtimeconfig.dev.json
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.dll
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.pdb
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.csprojAssemblyReference.cache
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfoInputs.cache
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfo.cs
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.dll
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.pdb
+D:\VisualStudio2019\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.genruntimeconfig.cache
